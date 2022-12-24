@@ -5,3 +5,5 @@ Simple controller for light, pump and heating a small greenhouse. ESP8266, MQTT
 <br>
 On Youtube: https://www.youtube.com/watch?v=35i7veDfN1I  (
 Sorry, the Video is in German only.)
+
+![Screenshot](Schnappschuss_klein.jpg)

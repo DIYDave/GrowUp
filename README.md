@@ -19,11 +19,10 @@ http://s.click.aliexpress.com/e/cgtmaWcg
 - Used App:      https://www.iot-onoff.com/ <br />
 
 <br>
-Useful:
-Inexpensive but good Fluke multimeter:
-
+Useful:<br />
+Inexpensive but good Fluke multimeter:<br />
 https://s.click.aliexpress.com/e/_DE7D4fd
 
-Cable set:   
+Cable set:   <br />
 https://s.click.aliexpress.com/e/_DBCMP6J
 

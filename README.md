@@ -1,6 +1,8 @@
 # GrowUp
 Simple controller for light, pump and heating a small greenhouse. ESP8266, MQTT
 
+Complete project to open in Visual Studio Code. To do this, the "PlatformIO" extension must be installed.
+
 ![Screenshot](Schnappschuss_klein.jpg)
 <br>
 On Youtube: https://www.youtube.com/watch?v=35i7veDfN1I  (

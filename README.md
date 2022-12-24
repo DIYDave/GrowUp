@@ -1,9 +1,27 @@
 # GrowUp
 Simple controller for light, pump and heating a small greenhouse. ESP8266, MQTT
 
-![alt tag](https://github.com/DIYDave/GrowUp/blob/Schnappschuss_klein.jpg)
+![Screenshot](Schnappschuss_klein.jpg)
 <br>
 On Youtube: https://www.youtube.com/watch?v=35i7veDfN1I  (
 Sorry, the Video is in German only.)
 
-![Screenshot](Schnappschuss_klein.jpg)
+Used Products:
+- ESP8266:             
+https://s.click.aliexpress.com/e/_DlM2fFZ
+- Relaisboard:      
+ https://s.click.aliexpress.com/e/_DEr90x9
+- M8 Cable 4p:       
+http://s.click.aliexpress.com/e/cgtmaWcg
+- M8 Connector 4p:    http://s.click.aliexpress.com/e/bTbkFVfi
+
+- Used App:      https://www.iot-onoff.com/
+- Apple store:       https://itunes.apple.com/be/app/iot-onoff/id1267226555?mt=8
+- Google store:    https://play.google.com/store/apps/details?id=goliath.mobile.device.iotonoff
+
+Useful:
+Inexpensive but good Fluke multimeter:
+https://s.click.aliexpress.com/e/_DE7D4fd
+Cable set:   
+https://s.click.aliexpress.com/e/_DBCMP6J
+

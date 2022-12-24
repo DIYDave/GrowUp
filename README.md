@@ -15,10 +15,10 @@ https://s.click.aliexpress.com/e/_DlM2fFZ
 http://s.click.aliexpress.com/e/cgtmaWcg
 - M8 Connector 4p:    http://s.click.aliexpress.com/e/bTbkFVfi
 
+<br>
 - Used App:      https://www.iot-onoff.com/
-- Apple store:       https://itunes.apple.com/be/app/iot-onoff/id1267226555?mt=8
-- Google store:    https://play.google.com/store/apps/details?id=goliath.mobile.device.iotonoff
 
+<br>
 Useful:
 Inexpensive but good Fluke multimeter:
 https://s.click.aliexpress.com/e/_DE7D4fd
